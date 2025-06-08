@@ -1,1 +1,9 @@
-This is a Calculator App in which basic arithmetical operations are performed. The input type is both decimal and whole number.
+Calculate It is a fast, simple, and efficient calculator app built using Kotlin in Android Studio. It helps users perform basic arithmetic operations with a clean and responsive interface.
+📱 Features:-
+
+➕ Addition
+➖ Subtraction
+✖ Multiplication
+➗ Division
+📟 Instant result display
+📱 Optimized for all screen sizes
